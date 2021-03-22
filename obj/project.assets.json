@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\walla\\DigitalInnovationOne\\DIO.Bank\\DIO.Bank.csproj",
+      "projectUniqueName": "C:\\Users\\walla\\DigitalInnovationOne\\DIO.Bank.GIT\\DIO.Bank.csproj",
       "projectName": "DIO.Bank",
-      "projectPath": "C:\\Users\\walla\\DigitalInnovationOne\\DIO.Bank\\DIO.Bank.csproj",
+      "projectPath": "C:\\Users\\walla\\DigitalInnovationOne\\DIO.Bank.GIT\\DIO.Bank.csproj",
       "packagesPath": "C:\\Users\\walla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\walla\\DigitalInnovationOne\\DIO.Bank\\obj\\",
+      "outputPath": "C:\\Users\\walla\\DigitalInnovationOne\\DIO.Bank.GIT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
